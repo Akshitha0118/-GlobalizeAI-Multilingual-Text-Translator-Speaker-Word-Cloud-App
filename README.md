@@ -1,0 +1,1 @@
+# -GlobalizeAI-Multilingual-Text-Translator-Speaker-Word-Cloud-App
