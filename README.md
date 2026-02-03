@@ -1,4 +1,4 @@
-# -GlobalizeAI-Multilingual-Text-Translator-Speaker-Word-Cloud-App
+# GlobalizeAI-Multilingual-Text-Translator-Speaker-Word-Cloud-App
 
 Globalize is an interactive **Streamlit web app** that allows users to **detect language, translate text into multiple languages, generate word clouds, and convert text to speech** — all in one place.
 
@@ -40,19 +40,19 @@ Beautiful glassmorphism UI with gradient background and smooth layout.
 ## 📦 Installation
 
 ### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/globalize.git
+git clone https://github.com/Akshitha0118/GlobalizeAI-Multilingual-Text-Translator-Speaker-Word-Cloud-App
+.git
 cd globalize
-
+---
 ### 2️⃣ Install Dependencies
 pip install -r requirements.txt
-
+---
 ### 3️⃣ Run the App
 streamlit run app.py
-
+---
 
 The app will open automatically in your browser 🌐
-
+---
 ## 🧠 How It Works
 
 User enters a paragraph
@@ -66,17 +66,17 @@ Word cloud is generated from English text
 User selects target languages
 
 Translated text is spoken aloud using gTTS
-
+---
 ## 🌍 Supported Languages
 
 Displays only gTTS-supported languages for speech
 
 Translation supports many global languages
-
+---
 ## 📸 UI Preview
 
 Glass UI • Gradient Background • Responsive Layout
-
+---
 ## 🔒 Notes
 
 Internet connection required (Google Translation & TTS)
